@@ -5,7 +5,7 @@
 🌱 I'm currently learning **React.js**
 
 💻 I have knowledge in:
-- **Languages:** C, Python, Java, JavaScript
+- **Languages:** C, C++, Python, Java, JavaScript
 - **Frontend:** HTML, CSS, React.js, Tailwind CSS
 - **Backend:** Node.js
 - **Tools:** Git, GitHub, Vite, Axios
