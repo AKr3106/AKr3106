@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AKr3106
 - 👀 I’m interested in Hackathons
-- 🌱 I’m currently learning python js
-- 💞️ I Hve knowledge in c python css html
+- 🌱 I’m currently learning react.js
+- 💞️ I Have knowledge in c python css html java javascript node.js
 - 📫 How to reach me https://www.instagram.com/akarmakar3106/profilecard/?igsh=MzN4MXR4YnIwY2Rj
 - 😄 Pronouns: HE
 
